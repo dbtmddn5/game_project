@@ -1,1 +1,1 @@
-# game_project
+# shooting game by using python language
